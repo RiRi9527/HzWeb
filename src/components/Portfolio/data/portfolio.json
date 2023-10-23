@@ -1,0 +1,22 @@
+{
+  "portfolio": [
+    {
+      "cover": "/portfolio/ezcheck/ezcheck.png",
+      "title": "EzCheck",
+      "description": "Vitejs, JSX",
+      "url": "https://github.com/RiRi9527/RiRi9527-EzCheck1.0.3"
+    },
+    {
+      "cover": "/portfolio/notesapp/notesapp.png",
+      "title": "Notes-app",
+      "description": "Full Stack, Nodejs, ElephantSQL",
+      "url": "https://github.com/RiRi9527/Full-Stack-Notes-app"
+    },
+    {
+      "cover": "/portfolio/firstcv/firstcv.png",
+      "title": "EzCheck",
+      "description": "HTML, CSS, JS",
+      "url": "https://github.com/RiRi9527/RiRi9527.github.io"
+    }
+  ]
+}
