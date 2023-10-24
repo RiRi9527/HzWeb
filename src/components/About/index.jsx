@@ -48,7 +48,7 @@ const About = () => {
           <p style={{ fontSize: '16px' }}>
             If I need to define myself in one sentence that would be a devoted
             husband to a beautiful wife, loving son to my parents, fitness
-            enthusiast, and passionate about gastronomy!!!
+            enthusiast, and a lover of fine cuisine!!!
           </p>
         </div>
 
