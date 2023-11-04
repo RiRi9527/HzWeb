@@ -1,6 +1,12 @@
 {
   "portfolio": [
     {
+      "cover": "/portfolio/recipe/MyRecipeApp.png",
+      "title": "Recipe App",
+      "description": "Full Stack, Nodejs, spoonacular API",
+      "url": "https://github.com/RiRi9527/Full-Stack-Notes-app"
+    },
+    {
       "cover": "/portfolio/ezcheck/ezcheck.png",
       "title": "EzCheck",
       "description": "Vitejs, JSX",
