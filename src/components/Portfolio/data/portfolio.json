@@ -1,6 +1,12 @@
 {
   "portfolio": [
     {
+      "cover": "/portfolio/tailwindnike/Nike.png",
+      "title": "Tailwind Nike",
+      "description": "Tailwind CSS",
+      "url": "https://github.com/RiRi9527/Tailwiond-CSS-Nike-Websitre"
+    },
+    {
       "cover": "/portfolio/recipe/MyRecipeApp.png",
       "title": "Recipe App",
       "description": "Full Stack, Nodejs, spoonacular API",
